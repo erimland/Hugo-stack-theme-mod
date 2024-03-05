@@ -111,7 +111,7 @@ blockquote.quote {
 
 
 
-//友情链接双栏
+//友情链接三栏
 @media (min-width: 1024px) {
     .article-list--compact.links {
         display: grid;
@@ -132,7 +132,7 @@ blockquote.quote {
     }
 }
 
-.friend-link-div {
+.article-list--compact.links {
  // 卡牌气泡响应动画
  -webkit-transition: transform 0.4s ease;
  -moz-transition: transform 0.4s ease;
