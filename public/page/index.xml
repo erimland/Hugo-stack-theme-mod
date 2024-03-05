@@ -6,13 +6,20 @@
     <description>Recent content in Pages on 鱼缸底两万里</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Archives</title>
-      <link>http://localhost:1313/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archives/</guid>
+      <title>关于一切</title>
+      <link>http://localhost:1313/%E5%85%B3%E4%BA%8E%E4%B8%80%E5%88%87/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E%E4%B8%80%E5%88%87/</guid>
+      <description>我 生活内容是：同人、饲养坏动物。 喜欢画画（动笔之前），偶尔一点点游戏。 博客 用于彻底代替纸质周记！ 也计划存一些画图笔记；以后有旅游内容就更好啦</description>
+    </item>
+    <item>
+      <title>笔记归档</title>
+      <link>http://localhost:1313/%E7%AC%94%E8%AE%B0%E5%BD%92%E6%A1%A3/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/%E7%AC%94%E8%AE%B0%E5%BD%92%E6%A1%A3/</guid>
       <description></description>
     </item>
     <item>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/links/</guid>
       <description>喜欢串门~欢迎交换友链！ 名称：鱼缸底两万里 简介：常做梦体质 地址：https://erimland.vercel.app/ 头像：https:/</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
     </item>
     <item>
       <title>Search</title>

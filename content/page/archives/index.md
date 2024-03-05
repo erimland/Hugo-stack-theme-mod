@@ -1,11 +1,11 @@
 ---
-title: "Archives"
-date: 2019-05-28
-layout: "archives"
-slug: "archives"
+title: "笔记归档"
+date: 2024-03-05
+layout: "笔记归档"
+slug: "笔记归档"
 menu:
     main:
-        weight: -70
+        weight: -80
         params: 
             icon: archives
 ---
