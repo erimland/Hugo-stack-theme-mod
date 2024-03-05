@@ -22,15 +22,15 @@ categories:
 
 感谢朋友[Kawa1Planet](https://kawa1planet.fun/)一晚上的电话教学，不然可能第一遍重装就失去耐心了hh
 
-## 引用
+## To-do list
 
-> 保留一些原demo站的图片，方便之后参考文章插入带注释的图片的方法。
+> □修改右边一栏
+> □设置博客icon
+> □修改评论区，更喜欢waline的
 
-## 图片
+## 看看猫
 
-![Photo by Florian Klauer on Unsplash](florian-klauer-nptLmg6jqDo-unsplash.jpg)  ![Photo by Luca Bravo on Unsplash](luca-bravo-alS7ewQ41M8-unsplash.jpg) 
-
-![Photo by Helena Hertz on Unsplash](helena-hertz-wWZzXlDpMog-unsplash.jpg)  ![Photo by Hudai Gayiran on Unsplash](hudai-gayiran-3Od_VKcDEAA-unsplash.jpg)
+![猫也看看你](Snipaste_2024-03-05_17-56-06.png) 
 
 
 相册语法来自 [Typlog](https://typlog.com/)
