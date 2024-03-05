@@ -29,7 +29,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     &[data-scheme="dark"] {
         --body-background: #282d3f;
-        --accent-color: #eed8b8;
+        --accent-color: #e0c7a2;
         --accent-color-darker: #f7e4c7;
         --accent-color-text: #000;
         --body-text-color: rgba(255, 255, 248, 0.7);
@@ -79,7 +79,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     }
 
     &[data-scheme="dark"] {
-        --card-background: #742217;
+        --card-background: #3b4152;
         --card-background-selected: rgba(255, 255, 255, 0.16);
         --card-text-color-main: rgba(255, 255, 255, 0.9);
         --card-text-color-secondary: rgba(255, 255, 255, 0.7);
