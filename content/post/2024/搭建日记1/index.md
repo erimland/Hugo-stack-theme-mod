@@ -1,7 +1,7 @@
 ---
 title: 终于搭建起来了
 description: 零基础依葫芦画瓢
-date: 2020-09-09
+date: 2024-03-05
 slug: 终于搭建起来了
 categories:
     - 搭建日记
