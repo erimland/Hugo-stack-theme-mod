@@ -2,14 +2,10 @@
 title: 关于一切
 description: 我要饮两杯，够执着了吧！
 date: '2024-03-05'
-aliases:
-  - about-us
-  - about-hugo
-  - contact
 lastmod: '2024-03-05'
 menu:
     main: 
-        weight: -90
+        weight: -80
         params:
             icon: user
 ---
