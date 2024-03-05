@@ -5,7 +5,7 @@
 
 <link rel='canonical' href='http://localhost:1313/categories/'>
 
-<link rel="stylesheet" href="/scss/style.min.231e843abef564330721f24db8eb07978b130c256b0e63675b5832a7a825c08d.css"><meta property='og:title' content='Categories'>
+<link rel="stylesheet" href="/scss/style.min.4cd288f4687c8181268d7bc27d9734890c896e172075b41c058fec9d93f01e8a.css"><meta property='og:title' content='Categories'>
 <meta property='og:description' content='常做梦体质'>
 <meta property='og:url' content='http://localhost:1313/categories/'>
 <meta property='og:site_name' content='鱼缸底两万里'>
@@ -459,6 +459,15 @@ document.getElementById('days').innerHTML = number_of_days;
 
         document.head.appendChild(customFont);
     }());
+</script>
+<script src="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/js/nprogress.min.js" integrity="sha384-bHDlAEUFxsRI7JfULv3DTpL2IXbbgn4JHQJibgo5iiXSK6Iu8muwqHANhun74Cqg" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/css/nprogress.css" integrity="sha384-KJyhr2syt5+4M9Pz5dipCvTrtvOmLk/olWVdfhAp858UCa64Ia5GFpTN7+G4BWpE" crossorigin="anonymous" />
+<script>
+    NProgress.start();
+    document.addEventListener("readystatechange", () => {
+        if (document.readyState === "interactive") NProgress.inc(0.8);
+        if (document.readyState === "complete") NProgress.done();
+    });
 </script>
 
     </body>
