@@ -8,7 +8,7 @@ comments: false
 license: false
 menu: 
     main:
-        name: friends
+        name: 网上邻居
         weight: -70
         params:
             icon: home
