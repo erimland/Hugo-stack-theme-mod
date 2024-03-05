@@ -208,7 +208,7 @@ related:
         - name: tags
           weight: 100
 
-        - name: categories
+        - name: 笔记分类
           weight: 200
 
 markup:
