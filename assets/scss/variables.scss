@@ -13,12 +13,12 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --main-top-padding: 50px;
     }
 
-    --body-background: #b2c5d5;
+    --body-background: #e8f0f7;
 
     --accent-color: #34495e;
     --accent-color-darker: #2c3e50;
-    --accent-color-text: #fff;
-    --body-text-color: #bababa;
+    --accent-color-text: #f9feff;
+    --body-text-color: #4f657b;
 
     --tag-border-radius: 4px;
 
@@ -32,8 +32,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --accent-color: #eed8b8;
         --accent-color-darker: #f7e4c7;
         --accent-color-text: #000;
-        --body-text-color: rgba(255, 255, 255, 0.7);
-        --scrollbar-thumb: hsl(0, 0%, 40%);
+        --body-text-color: rgba(255, 252, 248, 0.7);
+        --scrollbar-thumb: hsl(213, 7%, 30%);
         --scrollbar-track: var(--body-background);
     }
 }
