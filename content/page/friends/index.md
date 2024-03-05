@@ -35,6 +35,6 @@ menu:
 > 名称：鱼缸底两万里  
 > 简介：常做梦体质  
 > 地址：[https://erimland.vercel.app/](https://erimland.vercel.app/)  
-> 头像：[https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png](https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png)
+> 头像：[https://erimland.vercel.app/img/avatar_hu47e3fe262e715565f20e36130cea12a0_83284_300x0_resize_box_3.png](https://erimland.vercel.app/img/avatar_hu47e3fe262e715565f20e36130cea12a0_83284_300x0_resize_box_3.png)
 
 -
