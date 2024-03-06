@@ -138,11 +138,11 @@
         color: var(--accent-color);
         font-weight: 700;
 
-        .icon-tabler-toggle-left {
+        .icon-whitecat {
             display: none;
         }
 
-        .icon-tabler-toggle-right {
+        .icon-blackcat {
             display: unset;
         }
     }
@@ -155,7 +155,7 @@
     align-items: center;
     cursor: pointer;
 
-    .icon-tabler-toggle-right {
+    .icon-blackcat {
         display: none;
     }
 }
