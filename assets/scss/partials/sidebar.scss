@@ -138,11 +138,11 @@
         color: var(--accent-color);
         font-weight: 700;
 
-        .icon-whitecat {
+        .icon-white-cat {
             display: none;
         }
 
-        .icon-blackcat {
+        .icon-black-cat {
             display: unset;
         }
     }
@@ -155,8 +155,8 @@
     align-items: center;
     cursor: pointer;
     gap: var(--menu-icon-separation);
-    
-    .icon-blackcat {
+
+    .icon-black-cat {
         display: none;
     }
 }
