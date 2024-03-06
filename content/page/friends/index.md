@@ -1,5 +1,5 @@
 ---
-title: "网上邻居们"
+title: "邻居们"
 date: 2019-05-28
 description: 
 slug: "links"
@@ -8,7 +8,7 @@ comments: false
 license: false
 menu: 
     main:
-        name: 网上邻居
+        name: 邻居们
         weight: -70
         params:
             icon: home
