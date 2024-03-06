@@ -84,7 +84,7 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
         waline:
-            serverURL: https://erimland-waline-kemr67x83-erimlands-projects.vercel.app
+            serverURL: https://erimland-waline.vercel.app
             lang:
             visitor:
             avatar:
