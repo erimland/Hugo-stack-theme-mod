@@ -91,8 +91,8 @@ params:
             emoji:
                 - https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-gif
                 - https://cdn.jsdelivr.net/gh/norevi/blob-emoji-for-waline@2.0/blobs-png
-                - https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan
-                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+                - https://cdn.jsdelivr.net/gh/Saidosi/azuki-emoji-for-waline@1.0/azukisan/
+
             requiredMeta:
                 - name
                 - email
