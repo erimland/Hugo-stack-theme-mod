@@ -11,7 +11,7 @@ menu:
         name: 邻居们
         weight: -70
         params:
-            icon: home
+            icon: friends
         
 ---
 <style>
