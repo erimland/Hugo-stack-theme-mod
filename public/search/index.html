@@ -19,6 +19,19 @@
     }
 </style>
 
+
+<script> 
+		(function () {
+		    const customFont = document.createElement('link');
+		    customFont.href = "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;700&display=swap"; 
+		    customFont.type = "text/css";
+		    customFont.rel = "stylesheet";
+		
+		    document.head.appendChild(customFont);
+		}());
+</script>
+
+
 <script> 
 		(function () {
 		    const customFont = document.createElement('link');
@@ -28,9 +41,7 @@
 		
 		    document.head.appendChild(customFont);
 		}());
-</script>
-
-<link rel="preload" href="http://localhost:1313/search/index.json" as="fetch" crossorigin="anonymous">
+</script><link rel="preload" href="http://localhost:1313/search/index.json" as="fetch" crossorigin="anonymous">
     </head>
     <body class="template-search">
     <script>
