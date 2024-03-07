@@ -120,39 +120,6 @@
   };
   var gallery_default = StackGallery;
 
-  // ns-hugo:D:\博客\HUGO\erimland\Hugo-stack-theme-mod\assets\ts\color.ts
-  var colorsCache = {};
-  if (localStorage.hasOwnProperty("StackColorsCache")) {
-    try {
-      colorsCache = JSON.parse(localStorage.getItem("StackColorsCache"));
-    } catch (e) {
-      colorsCache = {};
-    }
-  }
-  async function getColor(key, hash, imageURL) {
-    if (!key) {
-      return await Vibrant.from(imageURL).getPalette();
-    }
-    if (!colorsCache.hasOwnProperty(key) || colorsCache[key].hash !== hash) {
-      const palette = await Vibrant.from(imageURL).getPalette();
-      colorsCache[key] = {
-        hash,
-        Vibrant: {
-          hex: palette.Vibrant.hex,
-          rgb: palette.Vibrant.rgb,
-          bodyTextColor: palette.Vibrant.bodyTextColor
-        },
-        DarkMuted: {
-          hex: palette.DarkMuted.hex,
-          rgb: palette.DarkMuted.rgb,
-          bodyTextColor: palette.DarkMuted.bodyTextColor
-        }
-      };
-      localStorage.setItem("StackColorsCache", JSON.stringify(colorsCache));
-    }
-    return colorsCache[key];
-  }
-
   // ns-hugo:D:\博客\HUGO\erimland\Hugo-stack-theme-mod\assets\ts\menu.ts
   var slideUp = (target, duration = 500) => {
     target.classList.add("transiting");
