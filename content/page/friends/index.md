@@ -9,7 +9,7 @@ license: false
 menu: 
     main:
         name: 邻居们
-        weight: -70
+        weight: -60
         params:
             icon: friends
         
