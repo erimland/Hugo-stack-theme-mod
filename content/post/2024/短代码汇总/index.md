@@ -24,7 +24,7 @@ image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 
 ## 零碎的格式
 
-`小方块引用`
+`小方块`
 
 **加粗**
 
@@ -40,27 +40,25 @@ image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 {{< underline color="#ffdd00" content="彩色下划线" >}}
 
 
-H<sub>2</sub>O
-
-X<sup>n</sup>
+上角标下角标： H<sub>2</sub>O，X<sup>n</sup>
 
 
 ## 表格
 
    Name | Age
 --------|------
-    Bob | 27
-  Alice | 23
+    kaede | 16
+  Akira | 17
 
-#### Inline Markdown within tables
+#### 更多表格
 
-| Italics   | Bold     | Code   |
+| 斜体   | 加粗     | 引用框   |
 | --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
+| *斜体* | **加粗** | `引用框` |
 
 | A                                                        | B                                                                                                             | C                                                                                                                                    | D                                                 | E                                                          | F                                                                    |
 |----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
-| Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
+| 我也不知道 | 什么情况下 | 会用到这种 | 电子表格 | 总之 | 先攒着吧 |
 
 ## 插入代码
 
