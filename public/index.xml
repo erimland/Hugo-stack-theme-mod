@@ -103,7 +103,8 @@
 	
 	&lt;figcaption&gt;色稿&lt;/figcaption&gt;
 	
-&lt;/figure&gt;  &lt;figure 
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure 
 	
 		class=&#34;gallery-image&#34; 
 		style=&#34;
@@ -132,7 +133,7 @@
 		&lt;img src=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/4.jpg&#34;
 			width=&#34;1179&#34;
 			height=&#34;1184&#34;
-			srcset=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/4_huf7f68147134e5a0e3ea96f3e1491a47b_1560657_480x0_resize_q75_box.jpg 480w, http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/4_huf7f68147134e5a0e3ea96f3e1491a47b_1560657_1024x0_resize_q75_box.jpg 1024w&#34;
+			srcset=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/4_hu4e89bab6e6b5e43a2e7e37b16f041db2_1644795_480x0_resize_q75_box.jpg 480w, http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/4_hu4e89bab6e6b5e43a2e7e37b16f041db2_1644795_1024x0_resize_q75_box.jpg 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;进一步细化&#34;&gt;
 	&lt;/a&gt;

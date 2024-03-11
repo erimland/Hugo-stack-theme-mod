@@ -62,7 +62,9 @@ image = "elena-hertz-wWZzXlDpMog-unsplash.jpg"
 
 #### 过程记录
 
-![起草](1.jpg)  ![色稿](2.jpg)  ![细化](3.jpg)  ![进一步细化](4.jpg) 
+![起草](1.jpg)  ![色稿](2.jpg)  
+
+![细化](3.jpg)  ![进一步细化](4.jpg) 
 
 #### 总结+待解决问题
 
