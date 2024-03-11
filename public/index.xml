@@ -12,7 +12,7 @@
         <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/</guid>
-        <description>&lt;img src="http://localhost:1313/elena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 三月花季，以及重启的画画练习" /&gt;&lt;p&gt;月初和家里人去公园看樱花，国内种的品种颜色很红艳，不是我喜欢的类型。最后拍了一些海棠，用作笔记的主题图啦。&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/elena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 三月花季，以及重启的画画练习" /&gt;&lt;p&gt;月初和家里人去公园看樱花，国内种的品种颜色很红艳，不是我喜欢的类型。最后拍了一些海棠，用作笔记的主题图啦。&lt;/p&gt;
 &lt;p&gt;春节期间很疲劳，几乎没画画。也在考虑近半年手感不佳的问题，总之还是没练和没思考的问题，所以报了一期1h练习，下旬开始。希望能练到快速构图的能力和大效果的搭建。&lt;/p&gt;
 &lt;p&gt;设计方面，想要修制一套像样的角色。算是近期最主要的正事，之后单独开一个tag记录吧。&lt;/p&gt;
 &lt;p&gt;记几个上旬的练习过程和总结&lt;/p&gt;
@@ -68,12 +68,17 @@
 &lt;/ul&gt;
 &lt;h4 id=&#34;过程记录&#34;&gt;过程记录&lt;/h4&gt;
 &lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 99; 
+			flex-basis: 238px&#34;
 	&gt;
-	&lt;a href=&#34;http://localhost:1313/1.jpg&#34; &gt;
-		&lt;img src=&#34;http://localhost:1313/1.jpg&#34;
-			
-			
-			
+	&lt;a href=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/1.jpg&#34; data-size=&#34;1179x1184&#34;&gt;
+		&lt;img src=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/1.jpg&#34;
+			width=&#34;1179&#34;
+			height=&#34;1184&#34;
+			srcset=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/1_huf7f68147134e5a0e3ea96f3e1491a47b_283582_480x0_resize_q75_box.jpg 480w, http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/1_huf7f68147134e5a0e3ea96f3e1491a47b_283582_1024x0_resize_q75_box.jpg 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;起草&#34;&gt;
 	&lt;/a&gt;
@@ -81,12 +86,17 @@
 	&lt;figcaption&gt;起草&lt;/figcaption&gt;
 	
 &lt;/figure&gt;  &lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 99; 
+			flex-basis: 238px&#34;
 	&gt;
-	&lt;a href=&#34;http://localhost:1313/2.jpg&#34; &gt;
-		&lt;img src=&#34;http://localhost:1313/2.jpg&#34;
-			
-			
-			
+	&lt;a href=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/2.jpg&#34; data-size=&#34;1179x1184&#34;&gt;
+		&lt;img src=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/2.jpg&#34;
+			width=&#34;1179&#34;
+			height=&#34;1184&#34;
+			srcset=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/2_huf7f68147134e5a0e3ea96f3e1491a47b_390482_480x0_resize_q75_box.jpg 480w, http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/2_huf7f68147134e5a0e3ea96f3e1491a47b_390482_1024x0_resize_q75_box.jpg 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;色稿&#34;&gt;
 	&lt;/a&gt;
@@ -94,12 +104,17 @@
 	&lt;figcaption&gt;色稿&lt;/figcaption&gt;
 	
 &lt;/figure&gt;  &lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 99; 
+			flex-basis: 238px&#34;
 	&gt;
-	&lt;a href=&#34;http://localhost:1313/3.jpg&#34; &gt;
-		&lt;img src=&#34;http://localhost:1313/3.jpg&#34;
-			
-			
-			
+	&lt;a href=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/3.jpg&#34; data-size=&#34;1179x1184&#34;&gt;
+		&lt;img src=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/3.jpg&#34;
+			width=&#34;1179&#34;
+			height=&#34;1184&#34;
+			srcset=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/3_huf7f68147134e5a0e3ea96f3e1491a47b_371589_480x0_resize_q75_box.jpg 480w, http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/3_huf7f68147134e5a0e3ea96f3e1491a47b_371589_1024x0_resize_q75_box.jpg 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;细化&#34;&gt;
 	&lt;/a&gt;
@@ -107,12 +122,17 @@
 	&lt;figcaption&gt;细化&lt;/figcaption&gt;
 	
 &lt;/figure&gt;  &lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 99; 
+			flex-basis: 238px&#34;
 	&gt;
-	&lt;a href=&#34;http://localhost:1313/4.jpg&#34; &gt;
-		&lt;img src=&#34;http://localhost:1313/4.jpg&#34;
-			
-			
-			
+	&lt;a href=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/4.jpg&#34; data-size=&#34;1179x1184&#34;&gt;
+		&lt;img src=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/4.jpg&#34;
+			width=&#34;1179&#34;
+			height=&#34;1184&#34;
+			srcset=&#34;http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/4_huf7f68147134e5a0e3ea96f3e1491a47b_1560657_480x0_resize_q75_box.jpg 480w, http://localhost:1313/2024/%E4%B8%89%E6%9C%88%E8%8A%B1%E5%AD%A3%E4%BB%A5%E5%8F%8A%E9%87%8D%E5%90%AF%E7%9A%84%E7%94%BB%E7%94%BB%E7%BB%83%E4%B9%A0/4_huf7f68147134e5a0e3ea96f3e1491a47b_1560657_1024x0_resize_q75_box.jpg 1024w&#34;
 			loading=&#34;lazy&#34;
 			alt=&#34;进一步细化&#34;&gt;
 	&lt;/a&gt;
