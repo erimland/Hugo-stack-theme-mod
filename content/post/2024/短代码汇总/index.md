@@ -1,17 +1,12 @@
-+++
-title = "自用短代码汇总"
-date = "2024-03-09"
-description = "写文章可能会用到的短代码。"
-tags = [
-    "装修",
-]
-categories = [
-    "搭建日记",
-]
-series = ["Themes Guide"]
-aliases = ["migrate-from-jekyl"]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
-+++
+
+---
+title: 自用短代码汇总
+description: 写文章可能会用到的短代码。
+date: 2024-03-09
+slug: 自用短代码汇总
+categories:
+  - 搭建日记
+---
 
 ## 小标题
 
